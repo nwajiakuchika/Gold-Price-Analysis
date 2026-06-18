@@ -1,6 +1,7 @@
 **GOLD PRICE ANALYSIS AND FORECASTING**
 
 **Overview**
+
 This project explore historical gold price data to analyze market trends,
 price movements,and volatility over time.The dataset include keys financial
 indicators and technicasl metrics that helps understand gold market behavior
